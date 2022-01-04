@@ -13,7 +13,8 @@ I'm currently learning Go, and i've built two projects so far to better my under
   it still is in early development and if you want to take a look and suggests improvements you're more than welcome :)
 - ### [directChat](https://github.com/brainstew927/directChat)
   directchat is a software which allows users to connect to servers and chat with other users inside their terminal
-  
+- ### [fontUnpackage](https://github.com/brainstew927/fontUnpackage)
+
 ## Languages 
 - C++
 - Python
