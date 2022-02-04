@@ -1,6 +1,6 @@
 ## whoami
 I'm **Lorenzo**, based in Milan currently studying Computer Science at Università degli Studi. In high school i also studied Computer Science.
-## Passions
+## Interested in
 - Coding 👨‍💻
 - Use computers to do fun stuff :P 💻 
 - Space Exploration and rocketry 🚀
